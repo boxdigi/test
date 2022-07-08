@@ -1,0 +1,27 @@
+button {
+    color: #fff;
+    background-color: rgba(0, 0, 255, 0.5);
+    border-radius: 5px;
+    border-color: rgba(0, 0, 255, 0.3);
+    ;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 32px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p {
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
